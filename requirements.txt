@@ -1,0 +1,11 @@
+pinecone==6.0.2
+fastembed==0.6.0
+pydantic==2.10.6
+openai==1.63.2
+langchain==0.3.21
+langchain-community==0.3.20
+langchain-openai==0.3.1
+langchain-text-splitters==0.3.7
+fastapi==0.115.8
+firecrawl-py==1.14.1
+uvicorn==0.30.1
